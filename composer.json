@@ -1,0 +1,18 @@
+{
+    "name": "yumitpay/woocomerce-plugin",
+    "type": "plugin",
+    "require": {
+        "guzzlehttp/guzzle": "^7.7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yumitpay\\WoocomercePlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yumitpay"
+        }
+    ]
+}
